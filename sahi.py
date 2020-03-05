@@ -10,3 +10,4 @@ result=mycursor.fetchone()
 for i in mycursor:
     print(i)
 print("change")
+print("change1")
