@@ -9,3 +9,4 @@ mycursor.execute("select * from student")
 result=mycursor.fetchone()
 for i in mycursor:
     print(i)
+print("change")
